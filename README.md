@@ -11,4 +11,4 @@ this contains multiple file
 4> ibwebcam.py - this is an extra file which can be used with the ip webcam app available on play store to wirelssly send
  video feed from phone to your pc , they should be connected on ssame network
   
-5> it has an xml file also which is used to detect the face in amges or videos.
+5> it has an xml file also which is used to detect the face in images or videos.
